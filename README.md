@@ -67,7 +67,7 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 
 *Table sorted descending by GitHub stargazers count.* 🌟
 
-| Project & Repo Link 🔗 | GitHub Stars ⭐ | License 📜 | Description 📝 |
+| Project & Repo Link 🔗 | GitHub_Stars ⭐ | License 📜 | Description 📝 |
 | :--- | :--- | :--- | :--- |
 | **[Supabase](https://github.com/supabase/supabase)** | [<img src="https://img.shields.io/github/stars/supabase/supabase?style=social&color=white" alt="Supabase Stars"/>](https://github.com/supabase/supabase/stargazers) | Apache-2.0 | Open-source Firebase alternative providing PostgreSQL, Auth, and Storage for custom grant data backends. |
 | **[NocoDB](https://github.com/nocodb/nocodb)** | [<img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white" alt="NocoDB Stars"/>](https://github.com/nocodb/nocodb/stargazers) | AGPL-3.0 | Open-source Airtable alternative turning grant databases into smart spreadsheets with intake forms. |
